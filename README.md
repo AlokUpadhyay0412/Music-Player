@@ -12,21 +12,22 @@ Check out the live demo here : (https://alokupadhyay0412.github.io/Music-Player/
 Music-Player/index.html(Main HTML file ) , style.css (Styling with CSS) , script.js (Core JavaScript functionality ) assets/ Folder containing audio files and images
 
 🚀 How to Use  
-1. Clone this repository:  bash
+-1. Clone this repository:  bash
    git clone https://github.com/alokupadhyay0412/Music-Player.git
-2.Open the index.html file in your browser.
-3.Enjoy the music!
+-2.Open the index.html file in your browser.
+-3.Enjoy the music!
 
 🛠️ Technologies Used
-HTML: For the structure of the application.
-CSS: For styling and responsiveness.
-JavaScript: For functionality and interactivity.
+-HTML: For the structure of the application.
+-CSS: For styling and responsiveness.
+-JavaScript: For functionality and interactivity.
 
 🌟 Future Enhancements
-Add a playlist feature for better music management.
-Integrate volume control.
-Support for shuffle and repeat modes.
-Enhance the UI with animations and themes.
+-Add a playlist feature for better music management.
+-Integrate volume control.
+-Support for shuffle and repeat modes.
+-Enhance the UI with animations and themes.
+
 💡 Inspiration
 This project was inspired by the desire to build a simple yet powerful music player to enhance user experience in web applications.
 
